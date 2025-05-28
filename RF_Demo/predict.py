@@ -35,7 +35,7 @@ compactness_worst = 0.3
 concavity_worst = 0.15
 concave_points_worst = 0.2
 symmetry_worst = 0.02
-fractal_dimension_worst = 0.02
+fractal_dimension_worst = 0.05
 
 new_data = pd.DataFrame([[
     radius_mean, texture_mean, perimeter_mean, area_mean, smoothness_mean,
