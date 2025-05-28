@@ -59,7 +59,3 @@ import pickle
 with open("rf_model.pkl", "rb") as f:
     model = pickle.load(f)
 ```
-
-## License
-
-This project is licensed under the MIT License.
