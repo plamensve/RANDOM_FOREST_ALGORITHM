@@ -29,11 +29,11 @@ fractal_dimension_se = 0.004
 radius_worst = 11.3
 texture_worst = 25.4
 perimeter_worst = 50.4
-area_worst = 40.0
+area_worst = 340.0
 smoothness_worst = 0.15
 compactness_worst = 0.3
 concavity_worst = 0.15
-concave_points_worst = 0.2
+concave_points_worst = 5.5
 symmetry_worst = 0.02
 fractal_dimension_worst = 0.05
 
