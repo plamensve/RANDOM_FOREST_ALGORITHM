@@ -35,8 +35,7 @@ pip install pandas scikit-learn
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/plamensve/RANDOM_FOREST_ALGORITHM.git
    ```
 
 2. Open the notebook:
