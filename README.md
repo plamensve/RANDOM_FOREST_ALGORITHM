@@ -1,6 +1,6 @@
 # Random Forest Classifier – Final Project
 
-This repository contains the implementation of a **Random Forest** classifier, developed as a final project for a machine learning course.
+This repository contains the implementation of a **Random Forest** classifier, developed as a final project for  Math concepts for developers course.
 
 ## Project Description
 
