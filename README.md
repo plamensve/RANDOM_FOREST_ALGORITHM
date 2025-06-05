@@ -31,8 +31,7 @@ project/
 How to Run:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/plamensve/RANDOM_FOREST_ALGORITHM.git
    
 
 
